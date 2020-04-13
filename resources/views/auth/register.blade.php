@@ -6,8 +6,6 @@
 
     <div class="w-9/12 mx-auto mt-10">
 
-        {{ dump($errors) }}
-
         <div class="w-6/12 mx-auto bg-gray-800 rounded p-10 h-full">
             <h2 class="text-white font-bold text-3xl">Create new account</h2>
             <form action="{{ route('register')  }}" method="POST" class="mt-10">
