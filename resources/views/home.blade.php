@@ -16,12 +16,12 @@
 
             <div class="mt-5 bg-gray-800 rounded p-5">
                 <form action="">
-                    <input type="text" class="w-full bg-gray-800 border-l-2 pl-3 focus:outline-none focus:border-blue-600 transition duration-300 ease-in-out" placeholder="Content title...">
+                    <input type="text" class="w-full bg-gray-800 text-white border-l-2 pl-3 focus:outline-none focus:border-blue-600 transition duration-300 ease-in-out" placeholder="Content title...">
                     <hr class="my-5 bg-gray-500">
-                    <textarea class="focus:outline-none bg-gray-800 w-full border-l-2 pl-3 focus:outline-none focus:border-blue-600 transition duration-300 ease-in-out"
+                    <textarea class="focus:outline-none bg-gray-800 text-white w-full border-l-2 pl-3 focus:outline-none focus:border-blue-600 transition duration-300 ease-in-out"
                               cols="30" rows="3" placeholder="Your idea right here..."></textarea>
                     <hr class="my-5 bg-gray-500">
-                    <input type="text" class="w-full bg-gray-800 border-l-2 pl-3 focus:outline-none focus:border-blue-600 transition duration-300 ease-in-out" placeholder="Add your category...">
+                    <input type="text" class="w-full bg-gray-800 text-white border-l-2 pl-3 focus:outline-none focus:border-blue-600 transition duration-300 ease-in-out" placeholder="Add your category...">
                     <small class="text-gray-500 text-xsm mt-5"><em>Category divided by comma ( , )</em></small>
 
                     <div class="mt-8">
@@ -42,8 +42,8 @@
     </div>
 
     <div class="mt-10">
-        <h2 class="text-white font-bold text-3xl">Most choice from forum site</h2>
-        <p class="text-blue-100 mt-5">Here is top content from our devs</p>
+        <h2 class="text-white font-bold text-3xl">Most choice forum content</h2>
+        <p class="text-blue-100 mt-5">Here is top content from our devs &#128293;</p>
 
         <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-3">
 
